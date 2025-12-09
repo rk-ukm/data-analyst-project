@@ -27,6 +27,11 @@ Prévision de la consommation d'énergie (électricité, gaz) en France pour les
 
 NB.: L'ensemble des slides du projet n'est pas inclus ici en raison de la limitation de la taille des fichiers.
 
+PS: Vous pouvez consulter ou télécharger mon projet récent au format .exe (189MB) aussi bien que .pdf (43.5 MB). </br>
+
+https://drive.google.com/file/d/1vr89S3_HePrkdxBDK80q8_lOVCIm-b6w/view?usp=sharing </br>
+https://drive.google.com/file/d/1kr_CWpZKungxS6YafA-OwxGY6sxvHeXi/view?usp=sharing </br>
+
 
 
 ### Repo : data-analyst-project
