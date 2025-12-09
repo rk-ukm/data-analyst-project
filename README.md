@@ -1,4 +1,4 @@
-# data-analyst-project
+# Data Analyst Project
 
 Hi!</br>
 Dans ce projet...</br>
