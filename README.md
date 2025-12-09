@@ -36,5 +36,5 @@ Usage/Trends: Bar, Column, Word Cloud/Treemap, Bubble Charts.
 Metrics: Primarily Record Count (number of respondents mentioning each technology), with derived percentages for distribution clarity.
 
 
---> To find in details please view the .pdf report
+--> To find in details please view the .pdf report </br>
 Many Thanks
